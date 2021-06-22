@@ -1,5 +1,6 @@
 # Identifying-the-Entities-in-news-video-with-NLTK
 The Project is develop to identify the Entities of a news video by getting the keywords spoken in the video with NLP using NLTK library of python. Not only news videos it can identify the topics discussed any video
+The project can be used in many field such as video recommendation system for online video streaming platforms, since it can identify the keywords/topics discussed in videos.
 
 ## Instructions to run the code
 #### Step 1
